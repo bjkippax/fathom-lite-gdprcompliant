@@ -1,3 +1,11 @@
+The Fork ...
+==============================
+
+The free, lite version of Fathom uses a tracking cookie and thus isn't PECR (GDPR) compliant.
+I've reworked the tracking in order to make it GDPR compliant. No need for the Pro Version and you can self-host and still comply with GDPR :)
+
+---
+
 Fathom Lite - simple website analytics
 ==============================
 
