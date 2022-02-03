@@ -7,6 +7,7 @@ I've reworked the tracking in order to make it GDPR compliant. No need for the P
 ### Progress
 
 :x: Introduce non-PII tracking script
+
 :x: Integrate new tracking script to standard tracking JS
 
 ---
